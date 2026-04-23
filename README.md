@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🎬 Netflix Clone Project
 
 This is a **Netflix Clone website** built using **HTML, CSS, and JavaScript**.  
@@ -46,7 +46,5 @@ It is made for practice and learning purposes.
 ---
 
 ⭐ Thank you for visiting my project!
-=======
-# Netflix-clone
-This is a Netflix Clone project built using HTML, CSS, and JavaScript. The purpose of this project is to practice front-end development skills and create a responsive, interactive UI similar to Netflix.
->>>>>>> 256e651a7d59d92d5c43c568f0786cd2f38b6970
+
+
