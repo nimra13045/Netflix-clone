@@ -1,0 +1,505 @@
+body{
+   background-color:#21181D;
+}
+#netflix{
+        position: absolute;
+        top: 8px;
+    left: 9px;
+    z-index: 10
+}
+#signinaction {
+  
+    display: inline-block;
+    position: absolute;
+    right: 22px;
+    font-size: 8px;
+    background-color: white;
+    border-radius: 36px;
+    padding: 1px;
+    top: 29px;}
+
+#signinaction:hover{
+background-color: #B9B6B7;
+}
+#signinaction a{
+  color: black;
+}
+a{
+  text-decoration: none;
+    color: white;
+    font-family: emoji;
+    font-size: large;
+    padding: 14px;
+}
+
+button.default-ltr-cache-afh1q5{
+position: absolute;
+    top: 312px;
+    color:white;
+    background-color: #5A5351;
+    right: 43px;
+    padding: 0px;
+    height: 80px;
+    z-index: 10;
+    border-radius: 40px;
+}
+button.default-ltr-cache-afh1q5:hover{
+  background-color:#474747;
+}
+button.left{
+     position: absolute;
+    top: 310px;
+    color:white;
+    background-color:#5A5351;
+    left: 44px;
+    padding: 0px;
+    height: 80px;
+    z-index: 10;
+    border-radius: 40px;
+}
+button.left:hover{
+  background-color: #474747;
+}
+#primary{
+  position: absolute;
+    top: 105px;
+    left: 24px;
+    border-radius: 10px;
+    opacity: 0.3;
+  }
+img{
+  border-radius:15px ;
+}
+#text{
+    position: absolute;
+    top: 207px;
+    color: white;
+    z-index: 13;
+    left: 99px;
+    /* font-size: large; */
+    
+}
+#text2{
+    position: absolute;
+    top: 292px;
+    color: white;
+    z-index: 13;
+    left: 99px;
+    
+}
+h1{
+  font-size: 82px;
+}
+#para{
+position: absolute;
+    top: 392px;
+    color: white;
+    left: 122px;
+}
+#para2{
+      position: absolute;
+    top: 456px;
+    color: white;
+    left: 123px;
+}
+h3{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#email{
+        position: absolute;
+    top: 502px;
+    left: 119px;
+    padding: 15px;
+    background-color: #464646;
+    border-radius: 60px;
+    width: 31%;
+    color: #A5A5A5;
+        border: 1px solid #6F6F6F;
+}
+  .sec input:hover{
+     background-color: #464748;
+    color: white;
+  } 
+.second {
+    position: absolute;
+    top: 502px;
+    background: red;
+    left: 546px;
+    padding: 11px;
+    border-radius: 60px;
+    color: white;
+    font-size: 21px;
+   font-family: sans-serif;
+    width: 18%;
+}
+.second:hover{
+   background-color: #C11119 ;
+}
+#trend{
+      position: absolute;
+    top: 591px;
+    color: #DCD1D5;
+    left: 40px;
+    padding: 10px;
+    margin: 10px;
+    font-size: 43px; 
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 13px;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 669px;
+    left: 96px;
+}
+.container div img {
+  transition: transform 0.3s ease; 
+  /* smooth animation */
+  cursor: pointer;
+}
+.container div img:hover {
+  transform: translateY(-10px); /* moves the image 10px up */
+}
+#more{
+      position: absolute;
+    top: 972px;
+    color: #DCD1D5;
+    left: 53px;
+    padding: 10px;
+    margin: 10px;
+    font-size: 43px; 
+}
+#content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    top: 1082px;
+    left: 89px;
+}
+#content p{
+  color: #B9B6B7;
+}
+#box1{
+ width: 271px;
+    border: 1px solid dimgray;
+    height: 220px;
+    border-radius: 10px;
+    margin: 14px;
+    text-align: center;
+    background-color: #272727;
+}
+#box2{
+  
+   width: 271px;
+    border: 1px solid dimgray;
+    height: 220px;
+    border-radius: 10px;
+    margin: 14px;
+    text-align: center;
+    background-color: #272727;
+}
+#box3{
+  
+      width: 271px;
+    border: 1px solid dimgray;
+    height: 220px;
+    border-radius: 10px;
+    margin: 14px;
+    text-align: center;
+    background-color: #272727;
+}
+#box4{
+  width: 271px;
+    border: 1px solid dimgray;
+    height: 220px;
+    border-radius: 10px;
+    margin: 14px;
+    text-align: center;
+    background-color: #272727;
+  }
+h5{
+  color: white;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.kali{
+  position: absolute;
+    left: 802px;
+
+}
+.kai{
+  position: absolute;
+  left:207px;
+}
+#kal{
+    position: absolute;
+    left: 1111px;
+    top: 149px
+}
+#kali{
+      position: absolute;
+    right: 618px;
+        top: 145px;
+
+}
+#heading{
+  color: #DCD1D5;
+    position: absolute;
+    top: 1320px;
+    left: 53px;
+    padding: 10px;
+    margin: 10px;
+    font-size: 43px;
+}
+#container{
+  position: absolute;
+    top: 1411px;
+    left: 112px;
+    width: 85%;
+}
+/* Fixes the button styling */
+.btn.btn-link.collapsed {
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+/* Fixes the card background */
+.card.mb-3 {
+  background-color: #272727;
+}
+.card-body{
+  color: white;
+}
+.btn.btn-link {
+  color: white !important;
+  text-decoration: none !important;
+}
+.plus{
+  display: inline-block;
+    position: absolute;
+    left: 95%;
+    font-size: 34px;
+    top: 11px;
+
+}
+#para3{
+
+      color: white;
+    position: absolute;
+    top: 2025px;
+    left: 365px;
+}
+#enteremail{
+        position: absolute;
+        top: 2090px;
+    left: 371px;
+    padding: 15px;
+    background-color: #464646;
+    border-radius: 60px;
+    width: 31%;
+    color: #A5A5A5;
+        border: 1px solid #6F6F6F;
+}
+  .email input:hover{
+     background-color: #464748;
+    color: white;
+  } 
+.second2 {
+    position: absolute;
+    top: 2090px;
+    background: red;
+    left: 795px;
+    padding: 11px;
+    border-radius: 60px;
+    color: white;
+    font-size: 21px;
+   font-family: sans-serif;
+    width: 18%;
+}
+.second2:hover{
+   background-color: #C11119 ;
+}
+#footer{    
+position: absolute;
+        top: 2167px;
+    left: 129px;
+   color: white ;
+
+}
+ #qc a{
+  color: white;
+    text-decoration: underline;
+ }   
+ .only a{
+  color: white;
+    text-decoration: underline;
+    position: absolute;
+    top: 2330px;
+    left: 894px;
+ }
+ .only a:hover{
+  color: red;
+ }
+ #fqa a{
+color: white;
+    text-decoration: underline;
+    position: absolute;
+        top: 2213px;
+    left: 254px;
+ }
+ #fqa a:hover{
+color: red;
+ }
+ .help a{
+color: white;
+    text-decoration: underline;
+    position: absolute;
+    top: 2267px;
+    left: 253px;
+ }
+ .help a:hover{
+color: red;
+ }
+ .account a{
+    color: white;
+    text-decoration: underline;
+    position: absolute;
+    top: 2213px;
+    left: 564px;
+ }
+  .account a:hover{
+  color: red;
+ }
+ .media a{
+color: white;
+    text-decoration: underline;
+    position: absolute;
+    top: 2330px;
+    left: 253px;
+ }
+ .media a:hover{
+color: red;
+ }
+ .Investor a{
+color: white;
+    text-decoration: underline;
+    position: absolute;
+    top: 2267px;
+    left: 564px;
+ }
+ .Investor a:hover{
+color: red;
+ }
+ .job a{
+color: white;
+    text-decoration: underline;
+    position: absolute;
+       top: 2267px;
+    left: 899px;
+ }
+
+ .job a:hover{
+color: red;
+ }
+ .way a{
+color: white;
+    text-decoration: underline;
+    position: absolute;
+   top: 2329px;
+    left: 564px;
+ }
+ .way a:hover{
+  color: red;
+
+ }
+ .Terms a{
+color: white;
+    text-decoration: underline;
+    position: absolute;
+  top: 2387px;
+    left: 564px;
+ }
+ .Terms a:hover{
+color: red;
+ }
+ 
+  .Privacy a{
+color: white;
+    text-decoration: underline;
+    position: absolute;
+   top: 2387px;
+    left: 253px;
+ }
+ .Privacy a:hover{
+color: red;
+ }
+  .contact a{
+color: white;
+    text-decoration: underline;
+    position: absolute;
+  top: 2213px;
+    left: 888px;
+ }
+ .contact a:hover{
+color: red;
+ }
+
+  .legal a{
+color: white;
+    text-decoration: underline;
+    position: absolute;
+  top: 2450px;
+    left: 561px;
+ }
+ .legal a:hover{
+color: red;
+ }  .speed a{
+color: white;
+    text-decoration: underline;
+    position: absolute;
+  top: 2450px;
+    left: 897px;
+ }
+ .speed a:hover{
+color: red;
+ }  .Cookie a{
+color: white;
+    text-decoration: underline;
+    position: absolute;
+ top: 2450px;
+    left: 251px;
+ }
+ .Cookie a:hover{
+color: red;
+ }  .coral a{
+color: white;
+    text-decoration: underline;
+    position: absolute;
+      top: 2386px;
+    left: 891px;
+ }
+ .coral a:hover{
+color: red;
+ } 
+ #net{
+    position: absolute;
+    top: 2519px;
+    color: white;
+    left: 163px;
+ }
+ #flix{
+  position: absolute;
+    top: 2578px;
+    color: white;
+    left: 152px;
+ } 
+ #flix a {
+  color :blue;
+  text-decoration: underline;
+ }
