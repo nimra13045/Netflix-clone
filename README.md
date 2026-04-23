@@ -6,7 +6,7 @@ It is created for learning front-end development and improving UI design skills.
 ---
 
 ## 🌐 Live Demo
-👉 https://nimra13045.github.io/movie-ui-project/
+👉 [View Live Website](https://nimra13045.github.io/movie-ui-project/)
 
 ---
 
